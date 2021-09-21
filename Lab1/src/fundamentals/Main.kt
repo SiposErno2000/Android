@@ -68,4 +68,5 @@ fun main() {
     //fel5
     val list2 = arrayListOf(1, 2, 5, 3, 6)
     feladat5(list2)
+
 }
