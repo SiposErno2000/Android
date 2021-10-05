@@ -4,20 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e6ffb32-7595-44e4-b62f-b54f18613688" name="Changes" comment="Projekt feltoltese">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__2_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2/Lab2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2/src/exercise1/DictionaryProvider.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2/src/exercise1/IDictionary.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2/src/exercise1/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2/src/exercise1/types/HasSetDictionary.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2/src/exercise1/types/ListDictionary.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2/src/exercise1/types/TreeSetDictionary.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2/src/exercise1/words.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2/src/exercise2/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2/src/exercise3/Date.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2/src/exercise3/Main.kt" afterDir="false" />
+    <list default="true" id="8e6ffb32-7595-44e4-b62f-b54f18613688" name="Changes" comment="2. labor feltoltese">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__3_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/Lab3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/src/Question.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/src/QuizController.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bemenet.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -59,11 +52,14 @@
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ernok\Desktop\Android\Kotlin" />
+    </key>
     <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
       <recent name="exercise1.types" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.MainKt (2)">
+  <component name="RunManager" selected="Kotlin.MainKt (3)">
     <configuration name="MainKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercise2.MainKt" />
       <module name="Lab2" />
@@ -74,6 +70,13 @@
     <configuration name="MainKt (2)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercise3.MainKt" />
       <module name="Lab2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt (3)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <module name="Lab3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -95,6 +98,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MainKt (3)" />
         <item itemvalue="Kotlin.MainKt (2)" />
         <item itemvalue="Kotlin.MainKt (1)" />
         <item itemvalue="Kotlin.MainKt" />
@@ -139,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632477602438</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2. labor feltoltese">
+      <created>1633023206448</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1633023206448</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -208,6 +219,7 @@
     <MESSAGE value="Orai tevekenyseg" />
     <MESSAGE value="Laborgyakorlat" />
     <MESSAGE value="Projekt feltoltese" />
-    <option name="LAST_COMMIT_MESSAGE" value="Projekt feltoltese" />
+    <MESSAGE value="2. labor feltoltese" />
+    <option name="LAST_COMMIT_MESSAGE" value="2. labor feltoltese" />
   </component>
 </project>
